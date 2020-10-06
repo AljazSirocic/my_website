@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://aljaz2020.netlify.app/"
 languageCode = "en-us"
-title = "Aljaz"
+title = "Aljaz Sirocic"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
