@@ -70,12 +70,6 @@ disqusShortname = ""
       name = "Get Started"
       url = "blogs"
 
-    # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
-
-
   # Banner section
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
@@ -83,7 +77,7 @@ disqusShortname = ""
     title = "Are you not entertained?"
     subtitle = "Wait to see my R projects"
     buttonText = "Get Started"
-
+    image = "gladiator"
 
   # Tiles Section
   [params.tiles]
@@ -94,7 +88,7 @@ disqusShortname = ""
       title = "Climate change and temperature anomalies "
       subtitle = "CLimate change"
       image = "pic01.jpg"
-      url = "blog3"
+      url = "blog1.md"
 
     [[params.tiles.showcase]]
       title = "Tempus"
@@ -126,11 +120,8 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "About myself - "To Tell You The Truth, I Lied A Little""    
-    subtitle = "Aljaz, coming from Slovenia. I did my undergraduate studies in Vienna, where I lived for 5 years.
-    Now I moved to London, where I started studies at the London Business School. I practised athletics,
-    triple jump, for 10 years and also won several medals at national competitions. As of today I still enjoy various
-    sport activities, such as running, gym and basketball. Moreover, I am passionate about European Basketball"
+    title = "About myself - 'To Tell You The Truth, I Lied A Little'"
+    subtitle = "Aljaz, coming from Slovenia. I did my undergraduate studies in Vienna, where I lived for 5 years. Now I moved to London, where I started studies at the London Business School. I practised athletics, triple jump, for 10 years and also won several medals at national competitions. Today, my hobbies consist of reading books and playing chess, which keep me mentally fresh, while I daily try to run or play basketball." 
     buttonText = "Get Started"
     url = "blogs"
 

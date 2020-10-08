@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Climate change and temperature anomalies</title>
+      <link>/blogs/climate-change-and-temperature-anomalies/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blogs/climate-change-and-temperature-anomalies/</guid>
+      <description>Climate change and temperature anomalies We want to study climate change and find our data on the Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies in the Northern Hemisphere at NASA&amp;rsquo;s Goddard Institute for Space Studies. The tabular data of temperature anomalies can be found here
+For this particular data set, NASA clearly states that the base period is the period between 1951-1980.
+We run the code below to load the file:</description>
+    </item>
+    
+    <item>
       <title>Aliquam</title>
       <link>/blogs/aliquam/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
@@ -32,15 +43,6 @@
       
       <guid>/blogs/magna/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>/blogs/ipsum/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>/blogs/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     
   </channel>
