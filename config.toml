@@ -87,7 +87,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Climate change and temperature anomalies "
       subtitle = "CLimate change"
-      image = "pic01.jpg"
+      image = "climate"
       url = "blog1.md"
 
     [[params.tiles.showcase]]
