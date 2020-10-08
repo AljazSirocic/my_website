@@ -126,12 +126,11 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    title = "About myself - "To Tell You The Truth, I Lied A Little""    
+    subtitle = "Aljaz, coming from Slovenia. I did my undergrad studies in Vienna, where I lived for 5 years.
+    Now I moved to London, where I started studies at the London Business School. I practised athletics,
+    triple jump, for 10 years and also won several medals at national competitions. As of today I still enjoy various
+    sport activities, such as running, gym and basketball. Moreover, I am passionate about European Basketball"
     buttonText = "Get Started"
     url = "blogs"
 
@@ -197,8 +196,3 @@ disqusShortname = ""
       icon = "fa-linkedin"
       url= "www.linkedin.com/in/aljazsirocic"
       label = "LinkedIn"
-
-    [[params.footer.quicklinks]]
-      text = "Design: "
-      url= "https://www.html5up.net"
-      alt = "HTML5 UP"
