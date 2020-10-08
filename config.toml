@@ -91,8 +91,8 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "DIJA Risk/Return"
+      title = "Climate change and temperature anomalies "
+      subtitle = ""
       image = "pic01.jpg"
       url = "blogs/aliquam"
 
@@ -127,7 +127,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "About myself - "To Tell You The Truth, I Lied A Little""    
-    subtitle = "Aljaz, coming from Slovenia. I did my undergrad studies in Vienna, where I lived for 5 years.
+    subtitle = "Aljaz, coming from Slovenia. I did my undergraduate studies in Vienna, where I lived for 5 years.
     Now I moved to London, where I started studies at the London Business School. I practised athletics,
     triple jump, for 10 years and also won several medals at national competitions. As of today I still enjoy various
     sport activities, such as running, gym and basketball. Moreover, I am passionate about European Basketball"
